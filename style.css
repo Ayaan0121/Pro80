@@ -1,0 +1,25 @@
+#submitButton{
+    margin-top: 20px;
+    margin-bottom:20px;
+    }
+        
+    
+    input{
+    margin: 10px;
+
+        }
+    body{
+        background-color:rgb(25, 178, 216);
+    }
+    #show{
+        display:none;
+    }
+   #appi{
+       display: none;
+   }
+   #appi1{
+    display: none;
+}
+#login{
+    border-color: crimson;
+}
